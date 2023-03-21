@@ -1,1 +1,17 @@
+Link to unlisted YouTube video:
+https://www.youtube.com/playlist?list=PLPkn_panLnphdPSp4lmk9lLqvUGPd_u53
 
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1Sd57qwoGF8eZxGerD249Xxj6yC3MwgrVKSkP4NNVpVU/edit?usp=sharing
+
+Paper title:
+Improving Relevance Quality in Product Search using High-Precision Query-Product Semantic Similarity
+
+Link to the paper:
+https://aclanthology.org/2022.ecnlp-1.6/
+
+Group Number:
+23
+
+Individual Submitter:
+19201018 Sadiq Uddin Bhuiyan
