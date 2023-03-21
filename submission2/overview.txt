@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://www.youtube.com/playlist?list=PLPkn_panLnphdPSp4lmk9lLqvUGPd_u53
 
 Public link to the slide (Anyone on the internet can view without login):
-[https://docs.google.com/presentation/d/1Sd57qwoGF8eZxGerD249Xxj6yC3MwgrVKSkP4NNVpVU/edit?usp=sharing]
+https://docs.google.com/presentation/d/1Sd57qwoGF8eZxGerD249Xxj6yC3MwgrVKSkP4NNVpVU/edit?usp=sharing
 
 Paper title:
 Improving Relevance Quality in Product Search using High-Precision Query-Product Semantic Similarity
