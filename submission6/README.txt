@@ -11,16 +11,16 @@ Paper title:
 Product Recommendation System Using NLP
 
 Paper submission date (to workshop/conference):
--
+11/05/2023
 
 Paper submission ID: (received) from conference/workshop
--
+1570913102
 
 Conference Name:
--
+IEEE R10 HTC 2023
 
 Conference URL:
--
+https://r10htc2023.org/index.php?p=7&Title=Call%20for%20Papers
 
 Group Number:
 23
